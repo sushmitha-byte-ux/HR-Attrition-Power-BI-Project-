@@ -1,6 +1,4 @@
 # HR-Attrition-Power-BI-Project-
-Project link -  https://app.powerbi.com/links/yfKaXTV8ND?ctid=9a3b10c3-b171-4a2d-a7e9-f6abf028db72&pbi_source=linkShare
-HR Attrition Dashboard
 
 This project aims to create an HR dashboard in Power BI that focuses on attrition analysis for the organization. 
 The data is processed and cleaned in Power BI’s Power Query, with transformations applied to prepare the data for visualization. 
