@@ -151,27 +151,6 @@ Each visualization provides a clear view of attrition patterns and assists in id
 
 ---
 
-How to Use
-
-1. Open Power BI: Load the dataset into Power BI and navigate to Power Query for initial data cleaning.
-
-
-2. Transform the Data: Apply the transformations mentioned above to categorize fields for analysis.
-
-
-3. Calculate KPIs: Use DAX formulas in Power BI to create measures for KPIs.
-
-
-4. Create Visualizations: Use Power BI’s visualization tools to create charts and graphs for each KPI and transformation category.
-
-
-5. Publish the Dashboard: Share the dashboard with relevant stakeholders for HR decision-making.
-
-
-
-
----
-
 Project Structure
 
 Data: Contains the raw dataset used in Power BI.
